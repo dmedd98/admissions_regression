@@ -1,4 +1,4 @@
-# Admissions Regession with Deep Learning
+# Deep Learning Regression with Admissions Data
 
 ### Created by Dillon Medd
 
